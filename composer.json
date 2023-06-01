@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": "^8.1",
-        "illuminate/contracts": "^v10.12"
+        "jms/serializer": "dev-master"
     },
     "require-dev": {
         "ergebnis/composer-normalize": "^2.31",
@@ -62,7 +62,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "WayOfDev\\Serializer\\Bridge\\Laravel\\Providers\\PackageServiceProvider"
+                "WayOfDev\\Serializer\\Bridge\\Laravel\\Providers\\SerializerServiceProvider"
             ]
         },
         "composer-normalize": {
