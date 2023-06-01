@@ -4,7 +4,6 @@ declare(strict_types=1);
 
 namespace WayOfDev\Serializer\Tests;
 
-use Doctrine\Common\Annotations\AnnotationRegistry;
 use JMS\Serializer\SerializationContext;
 use WayOfDev\Serializer\Config;
 use WayOfDev\Serializer\Contracts\ConfigRepository;

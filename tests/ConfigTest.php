@@ -6,6 +6,7 @@ namespace WayOfDev\Serializer\Tests;
 
 use WayOfDev\Serializer\Config;
 use WayOfDev\Serializer\Exceptions\MissingRequiredAttributes;
+
 use function sprintf;
 
 class ConfigTest extends TestCase
@@ -35,6 +36,7 @@ class ConfigTest extends TestCase
 
     /**
      * @test
+     *
      * @dataProvider dataProviderForConfig
      */
     public function it_creates_config(array $config, bool $throwMissingException): void

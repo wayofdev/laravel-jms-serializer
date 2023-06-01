@@ -6,6 +6,7 @@ namespace WayOfDev\Serializer;
 
 use WayOfDev\Serializer\Contracts\ConfigRepository;
 use WayOfDev\Serializer\Exceptions\MissingRequiredAttributes;
+
 use function array_diff;
 use function array_keys;
 use function implode;

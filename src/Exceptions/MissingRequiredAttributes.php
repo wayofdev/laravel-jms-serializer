@@ -5,6 +5,7 @@ declare(strict_types=1);
 namespace WayOfDev\Serializer\Exceptions;
 
 use InvalidArgumentException;
+
 use function sprintf;
 
 final class MissingRequiredAttributes extends InvalidArgumentException
