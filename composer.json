@@ -1,12 +1,12 @@
 {
-    "name": "wayofdev/laravel-serializer",
+    "name": "wayofdev/laravel-jms-serializer",
     "description": "PHP package template with GitHub Actions",
     "type": "library",
     "license": "MIT",
     "homepage": "https://wayof.dev",
     "support": {
-        "issues": "https://github.com/wayofdev/laravel-serializer/issues",
-        "source": "https://github.com/wayofdev/laravel-serializer"
+        "issues": "https://github.com/wayofdev/laravel-jms-serializer/issues",
+        "source": "https://github.com/wayofdev/laravel-jms-serializer"
     },
     "authors": [
         {

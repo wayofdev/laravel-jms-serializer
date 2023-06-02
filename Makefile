@@ -34,7 +34,7 @@ else
 	WHITE := ""
 	RST := ""
 endif
-MAKE_LOGFILE = /tmpwayofdev-laravel-serializer.log
+MAKE_LOGFILE = /tmpwayofdev-laravel-jms-serializer.log
 MAKE_CMD_COLOR := $(BLUE)
 
 default: all
@@ -47,7 +47,7 @@ help:
 	@echo
 	@echo '    📑 Logs are stored in      $(MAKE_LOGFILE)'
 	@echo
-	@echo '    📦 Package                 laravel-serializer (github.com/wayofdev/laravel-serializer)'
+	@echo '    📦 Package                 laravel-jms-serializer (github.com/wayofdev/laravel-jms-serializer)'
 	@echo '    🤠 Author                  Andrij Orlenko (github.com/lotyp)'
 	@echo '    🏢 ${YELLOW}Org                     wayofdev (github.com/wayofdev)${RST}'
 .PHONY: help
