@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6a33a0a40d230dfbb9847e134ddedafa",
+    "content-hash": "4038eae9093d1327634d63fdd7ec5e94",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -10849,16 +10849,16 @@
         },
         {
             "name": "wayofdev/cs-fixer-config",
-            "version": "v1.2.6",
+            "version": "v1.2.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wayofdev/php-cs-fixer-config.git",
-                "reference": "eab80b7897d297fe1b43144885a61f71193acdec"
+                "reference": "9a994f36136af606e89f805fcbccd4d8fd298a72"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wayofdev/php-cs-fixer-config/zipball/eab80b7897d297fe1b43144885a61f71193acdec",
-                "reference": "eab80b7897d297fe1b43144885a61f71193acdec",
+                "url": "https://api.github.com/repos/wayofdev/php-cs-fixer-config/zipball/9a994f36136af606e89f805fcbccd4d8fd298a72",
+                "reference": "9a994f36136af606e89f805fcbccd4d8fd298a72",
                 "shasum": ""
             },
             "require": {
@@ -10909,7 +10909,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2023-05-24T09:37:49+00:00"
+            "time": "2023-05-28T17:31:00+00:00"
         },
         {
             "name": "webmozart/assert",
