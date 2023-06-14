@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.16](https://github.com/wayofdev/laravel-jms-serializer/compare/v1.0.15...v1.0.16) (2023-06-14)
+
+
+### Miscellaneous
+
+* **deps:** update dependency nunomaduro/larastan to v2.6.3 ([0905e25](https://github.com/wayofdev/laravel-jms-serializer/commit/0905e2523909674d82dd8587a738193e1377b0dd))
+
 ## [1.0.15](https://github.com/wayofdev/laravel-jms-serializer/compare/v1.0.14...v1.0.15) (2023-06-14)
 
 
