@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.17](https://github.com/wayofdev/laravel-jms-serializer/compare/v1.0.16...v1.0.17) (2023-06-14)
+
+
+### Miscellaneous
+
+* **deps:** update dependency phpstan/phpstan to v1.10.19 ([0c48036](https://github.com/wayofdev/laravel-jms-serializer/commit/0c48036f4e3c21a2a974c2b82df8ca902c0ef8a7))
+* **deps:** update dependency wayofdev/cs-fixer-config to v1.2.13 ([683dfe1](https://github.com/wayofdev/laravel-jms-serializer/commit/683dfe1e7f33544d829c4fc7ea923b8d54ebcee7))
+
 ## [1.0.16](https://github.com/wayofdev/laravel-jms-serializer/compare/v1.0.15...v1.0.16) (2023-06-14)
 
 
