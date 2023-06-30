@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.31](https://github.com/wayofdev/laravel-jms-serializer/compare/v1.0.30...v1.0.31) (2023-06-30)
+
+
+### Miscellaneous
+
+* **deps:** update dependency ergebnis/composer-normalize to v2.32.0 ([eb004c1](https://github.com/wayofdev/laravel-jms-serializer/commit/eb004c1e2742abbd616db62984b3987de1c1d14f))
+* **deps:** update dependency wayofdev/cs-fixer-config to v1.2.21 ([8e3df84](https://github.com/wayofdev/laravel-jms-serializer/commit/8e3df84ec83df991e483775ed8a6a7d44ef49742))
+
 ## [1.0.30](https://github.com/wayofdev/laravel-jms-serializer/compare/v1.0.29...v1.0.30) (2023-06-27)
 
 
