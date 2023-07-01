@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.35](https://github.com/wayofdev/laravel-jms-serializer/compare/v1.0.34...v1.0.35) (2023-07-01)
+
+
+### Miscellaneous
+
+* **deps:** update dependency pestphp/pest to v2.8.1 ([ff721b9](https://github.com/wayofdev/laravel-jms-serializer/commit/ff721b91f538f8d33380e7f542f436efb6e32167))
+
 ## [1.0.34](https://github.com/wayofdev/laravel-jms-serializer/compare/v1.0.33...v1.0.34) (2023-07-01)
 
 
