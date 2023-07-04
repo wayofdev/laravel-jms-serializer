@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.37](https://github.com/wayofdev/laravel-jms-serializer/compare/v1.0.36...v1.0.37) (2023-07-04)
+
+
+### Miscellaneous
+
+* **deps:** update dependency wayofdev/cs-fixer-config to v1.2.24 ([e891de1](https://github.com/wayofdev/laravel-jms-serializer/commit/e891de162f9d9fabf86aaa461f87bc214620498b))
+
 ## [1.0.36](https://github.com/wayofdev/laravel-jms-serializer/compare/v1.0.35...v1.0.36) (2023-07-04)
 
 
