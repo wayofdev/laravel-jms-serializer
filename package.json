@@ -1,5 +1,5 @@
 {
-    "version": "1.0.42",
+    "version": "1.0.43",
     "repository": {
         "url": "https://github.com/wayofdev/laravel-jms-serializer.git"
     }
