@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.64](https://github.com/wayofdev/laravel-jms-serializer/compare/v1.0.63...v1.0.64) (2023-08-01)
+
+
+### Miscellaneous
+
+* **deps:** update dependency orchestra/testbench to v8.5.12 ([854552e](https://github.com/wayofdev/laravel-jms-serializer/commit/854552e496cd63e0ac18e72a4cc6aaff60193eb9))
+* **deps:** update dependency pestphp/pest to v2.10.1 ([0d8457c](https://github.com/wayofdev/laravel-jms-serializer/commit/0d8457ca56d3f2f664b94c296c450bf500d18494))
+
 ## [1.0.63](https://github.com/wayofdev/laravel-jms-serializer/compare/v1.0.62...v1.0.63) (2023-07-31)
 
 
