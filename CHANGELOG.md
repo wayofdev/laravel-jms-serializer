@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.86](https://github.com/wayofdev/laravel-jms-serializer/compare/v1.0.85...v1.0.86) (2023-08-14)
+
+
+### Miscellaneous
+
+* **deps:** update dependency phpstan/phpstan to v1.10.29 ([163f30f](https://github.com/wayofdev/laravel-jms-serializer/commit/163f30f2282cb3db8ae635194ae008e9bc552b73))
+
 ## [1.0.85](https://github.com/wayofdev/laravel-jms-serializer/compare/v1.0.84...v1.0.85) (2023-08-14)
 
 
