@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.89](https://github.com/wayofdev/laravel-jms-serializer/compare/v1.0.88...v1.0.89) (2023-08-15)
+
+
+### Miscellaneous
+
+* **deps:** update dependency phpunit/phpunit to v10.3.1 ([fd0e461](https://github.com/wayofdev/laravel-jms-serializer/commit/fd0e4615cf55314f4fb5304e21cd97648f357e3d))
+
 ## [1.0.88](https://github.com/wayofdev/laravel-jms-serializer/compare/v1.0.87...v1.0.88) (2023-08-14)
 
 
