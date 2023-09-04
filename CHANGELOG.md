@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.111](https://github.com/wayofdev/laravel-jms-serializer/compare/v1.0.110...v1.0.111) (2023-09-04)
+
+
+### Miscellaneous
+
+* **deps:** update dependency ergebnis/composer-normalize to v2.36.0 ([b6276ee](https://github.com/wayofdev/laravel-jms-serializer/commit/b6276eeedcb4566ee28de73b38bbcb1f551bfbfa))
+
 ## [1.0.110](https://github.com/wayofdev/laravel-jms-serializer/compare/v1.0.109...v1.0.110) (2023-09-04)
 
 
