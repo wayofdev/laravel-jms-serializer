@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.114](https://github.com/wayofdev/laravel-jms-serializer/compare/v1.0.113...v1.0.114) (2023-09-04)
+
+
+### Miscellaneous
+
+* **deps:** update actions/checkout action to v4 ([7c2d1ec](https://github.com/wayofdev/laravel-jms-serializer/commit/7c2d1ec03f6ba2623d80c78e8d44f37fd1b9c5d9))
+
 ## [1.0.113](https://github.com/wayofdev/laravel-jms-serializer/compare/v1.0.112...v1.0.113) (2023-09-04)
 
 
