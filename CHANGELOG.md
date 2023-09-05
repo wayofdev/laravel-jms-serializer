@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.115](https://github.com/wayofdev/laravel-jms-serializer/compare/v1.0.114...v1.0.115) (2023-09-05)
+
+
+### Miscellaneous
+
+* **deps:** update dependency orchestra/testbench to v8.10.1 ([e5628a3](https://github.com/wayofdev/laravel-jms-serializer/commit/e5628a3701999d4fe9b6996c1ebe72ccafd29e69))
+
 ## [1.0.114](https://github.com/wayofdev/laravel-jms-serializer/compare/v1.0.113...v1.0.114) (2023-09-04)
 
 
