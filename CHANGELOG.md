@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.122](https://github.com/wayofdev/laravel-jms-serializer/compare/v1.0.121...v1.0.122) (2023-09-14)
+
+
+### Miscellaneous
+
+* **deps:** update codecov/codecov-action action to v4 ([d292b5f](https://github.com/wayofdev/laravel-jms-serializer/commit/d292b5f3af55ef6167b94e069f45c0180b3db784))
+
 ## [1.0.121](https://github.com/wayofdev/laravel-jms-serializer/compare/v1.0.120...v1.0.121) (2023-09-13)
 
 
